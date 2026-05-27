@@ -9,8 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:yenhoanglv0205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -83,7 +82,7 @@ Whether it's crafting high-performance, responsive interfaces with **Next.js**, 
 Feel free to reach out for collaborations, tech discussions, or system architecture inquiries!
 
 *   💬 Ask me about **RAG vs. CAG strategies**, local LLM optimization, or PostgreSQL query performance tuning.
-*   💼 Let's connect on [LinkedIn](https://linkedin.com) or reach out directly via [Email](mailto:contact@example.com).
+*   📧 Reach out directly via email at [yenhoanglv0205@gmail.com](mailto:yenhoanglv0205@gmail.com).
 
 <p align="center">
   <i>Designing robust software to empower the next generation of artificial intelligence. 🚀</i>
