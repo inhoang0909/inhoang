@@ -1,89 +1,90 @@
-# Hi, I'm In Hoang 👋
-### **Backend Engineer & AI Systems Architect**
+# 👋 Hi, I'm Yên
 
-<!-- Introduction -->
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <strong>Fullstack Engineer specializing in NLP, AI-Integrated Systems & High-Performance Databases</strong>
 </p>
 
-I am a **Backend Engineer** specializing in the design, optimization, and scaling of **AI-integrated enterprise systems**. My expertise lies at the intersection of robust backend architectures and state-of-the-art information retrieval, with a dedicated focus on productionizing **RAG (Retrieval-Augmented Generation)** and **CAG (Cache/Context-Augmented Generation)** pipelines.
-
-I thrive on solving system bottlenecks, optimizing high-dimensional vector search, and turning complex LLM capabilities into reliable, deterministic software solutions.
-
----
-
-### 🧠 Core Philosophy
-> *"An AI model is only as powerful as the systems that feed it. Excellent backend engineering bridges the gap between raw LLM intelligence and deterministic, low-latency enterprise truth."*
-
----
-
-### 🚀 Featured Projects
-
-#### 🌐 **AI-Powered Internal Translation Platform**
-*An enterprise-grade, high-throughput translation engine designed to secure and localize company intelligence.*
-* **Architectural Core:** Advanced **Retrieval-Augmented Generation (RAG)** optimized for domain-specific context.
-* **Key Features:** Built an integrated dictionary and active vocabulary system to ensure precise translation of custom company terminology and proprietary jargon.
-* **Scale & Production Impact:** 
-  * Currently serving a user base of **8,000+ active enterprise users**.
-  * Orchestrating and executing **~1,000 requests per day** under rigorous production SLAs.
-
-#### ⚡ **ZetaBase AI — Knowledgebase Orchestrator**
-*A user-centric data automation and ingestion gateway built on top of Dify.*
-* **Objective:** Streamline knowledge base administration and eliminate engineering bottlenecks.
-* **Key Features:** Designed and implemented an intuitive, self-service administration dashboard allowing non-technical external departments to upload, maintain, and synchronize documents seamlessly.
-* **Operational Impact:** Automated the ingestion pipeline completely, enabling real-time database updates without requiring manual developer intervention.
-
----
-
-### 🛠️ Technical Ecosystem
-
-#### 🧠 **AI & Large Language Models**
 <p align="left">
-  <img src="https://img.shields.io/badge/RAG%20%26%20CAG%20Architectures-FF6B6B?style=for-the-badge&logo=cpu&logoColor=white" alt="RAG/CAG">
-  <img src="https://img.shields.io/badge/Ollama%20(Local%20LLM)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Dify.ai%20Orchestration-4F46E5?style=for-the-badge&logoColor=white" alt="Dify">
+  <i>Building intelligent, scalable, and user-centric applications from the UI down to the Vector Database.</i>
 </p>
 
-* **System Design:** Custom hybrid search pipelines, advanced chunking strategies, meta-data filtering, and semantic re-ranking.
-* **Local Deployments:** Optimizing memory footprints and response latency for local LLMs via Ollama.
-
-#### 🗄️ **Databases & Vector Search Engines**
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
-  <img src="https://img.shields.io/badge/LanceDB-000000?style=for-the-badge&logoColor=white" alt="LanceDB">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-* **Postgre SQL Deep Diving:**
-  * **Performance & Speed:** High-efficiency indexing strategies (B-Tree, GIN, GiST), custom query planning, and `EXPLAIN ANALYZE` optimizations.
-  * **Concurrency & Safety:** Deep understanding of PostgreSQL lock mechanisms, transactions isolation levels, and ACID compliance.
-  * **Scaling:** Connection pooling management (PgBouncer) and read-replica routing.
-* **Vector Repositories:** Architecting low-latency semantic search matching indexes using Qdrant and LanceDB.
-
-#### 💻 **Infrastructure, OS & Environment**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/macOS%20(Apple%20Silicon)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-* Seamless deployment and performance optimization across local Unix environments (Linux Ubuntu & Apple Silicon macOS).
-* Containerized microservices workflows with multi-architecture Docker environments.
 
 ---
 
-### 📈 Optimization Metrics That Matter To Me
-* ⏱️ **Latency Reduction:** Trimming milliseconds off RAG database retrieval through semantic indexes.
-* 🛡️ **Data Consistency:** Eliminating transaction locks and database deadlocks.
-* 📦 **Zero-Touch Automation:** Creating user-empowered tools to prevent developer context-switching.
+### 👨‍💻 About Me
+
+I am a **Fullstack Engineer** with a deep specialization in **Artificial Intelligence, Natural Language Processing (NLP), and LLM-integrated systems**. My passion lies in bridging the gap between complex AI architectures and seamless, production-ready user experiences. 
+
+Whether it's crafting high-performance, responsive interfaces with **Next.js**, architecting robust and scalable backends using **NestJS**, fine-tuning advanced **PostgreSQL query plans**, or orchestrating **RAG/CAG pipelines**, I thrive on solving hard engineering bottlenecks and building reliable software systems.
 
 ---
 
-### 🤝 Connect With Me
-* 💬 Ask me about **RAG vs. CAG strategies**, local LLM quantization, or PostgreSQL query tuning!
-* 📧 Reach out for collaborations or system architecture consulting via **LinkedIn** or **Email**.
+### 🚀 Featured Portfolio Projects
+
+#### 📂 **Enterprise AI-Powered Translation Platform**
+> *A specialized, high-precision RAG-based translation system designed for context-aware corporate localization.*
+
+*   **The Challenge:** Standard translation APIs fail to accurately translate internal, domain-specific terminology and company jargon, leading to costly miscommunications.
+*   **The Solution:** Engineered a custom translation pipeline using a **Retrieval-Augmented Generation (RAG)** architecture. I integrated a dynamic, vector-based dictionary/glossary that retrieves company-specific context and dynamically injects it into the LLM prompt before translation.
+*   **Technical Highlights:**
+    *   Implemented complex NLP tokenization and semantic chunking to match source text with internal glossary terms with high accuracy.
+    *   Optimized the NestJS backend to handle high concurrency through tuned database connection pooling and query performance.
+*   **Tech Stack:** `NestJS` • `Node.js` • `React/Next.js` • `PostgreSQL` • `Vector DB (Qdrant/LanceDB)` • `Local LLMs`
+*   **Production Impact:** Serving **8,000+ active enterprise users** and flawlessly processing **~1,000 requests daily** in production.
+
+#### 📂 **ZetaBase AI (Knowledgebase Management)**
+> *An intelligent wrapper and management interface for Dify, democratizing AI document processing.*
+
+*   **The Challenge:** Non-technical business departments struggled to manage, parse, and update the raw data feeding into company RAG systems without constant engineering intervention.
+*   **The Solution:** Designed and developed a full-stack application acting as an intuitive interface and optimization wrapper around the Dify API, allowing external users to visually upload, parse, and manage documents.
+*   **Technical Highlights:**
+    *   Built a highly responsive frontend for document tracking and knowledge-graph visualization.
+    *   Automated the complete ingestion pipeline (document parsing, embedding generation, and vector storage synchronization).
+*   **Tech Stack:** `Next.js` • `React` • `Vanilla JS` • `Node.js` • `Dify API` • `PostgreSQL`
+*   **Production Impact:** Entirely eliminated the engineering bottleneck for knowledge base updates, reducing content deployment latency from days to minutes.
+
+---
+
+### 🧠 Core Competencies & Tech Stack
+
+#### 🔬 **AI, LLM & NLP Expertise**
+*   **Architectures:** Retrieval-Augmented Generation (RAG), Cache/Context-Augmented Generation (CAG), Agentic Workflows.
+*   **NLP Techniques:** Semantic Search, custom Text Chunking strategies, Tokenization, Embedding optimization, Prompt Engineering & Guardrails.
+*   **LLM Operations:** Local LLM deployment & orchestration (Ollama), Context-window management, mitigating hallucinations.
+*   **Vector Databases:** Qdrant, LanceDB, pgvector.
+
+#### 💻 **Fullstack Engineering**
+*   **Frontend:** JavaScript (ES6+), TypeScript, ReactJS, Next.js, TailwindCSS.
+*   **Backend:** Node.js, NestJS, Express.
+*   **Databases (Deep Expertise):** PostgreSQL (Advanced Indexing strategies, Query Execution Plans, Lock & Transaction isolation levels, Connection Pooling).
+*   **OS & DevOps:** Linux (Ubuntu), macOS (Apple Silicon), Docker, Git.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/inhoang0909">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=inhoang0909&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Yên's GitHub Stats" />
+  </a>
+  <a href="https://github.com/inhoang0909">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhoang0909&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Yên's Top Languages" />
+  </a>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out for collaborations, tech discussions, or system architecture inquiries!
+
+*   💬 Ask me about **RAG vs. CAG strategies**, local LLM optimization, or PostgreSQL query performance tuning.
+*   💼 Let's connect on [LinkedIn](https://linkedin.com) or reach out directly via [Email](mailto:contact@example.com).
 
 <p align="center">
-  <i>Optimizing systems to feed the future of intelligence. 🚀</i>
+  <i>Designing robust software to empower the next generation of artificial intelligence. 🚀</i>
 </p>
