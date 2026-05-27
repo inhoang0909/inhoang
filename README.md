@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yên
+# 👋 Hi, I'm YẾN
 
 <p align="left">
   <strong>Fullstack Engineer specializing in NLP, AI-Integrated Systems & High-Performance Databases</strong>
